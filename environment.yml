@@ -4,13 +4,13 @@ channels:
 dependencies:
   - python
   - spyder-env 
+  - numpy 
   - pip
   - pip:
     - nbgitpuller
     - sphinx-gallery
     - pandas
     - matplotlib
-	- numpy 
 	- spyder 
 	- scipy 
 	- pandas 
