@@ -3,7 +3,6 @@ channels:
   - conda-forge
 dependencies:
   - python
-  - spyder-env 
   - numpy 
   - spyder 
   - scipy 
