@@ -11,8 +11,8 @@ dependencies:
   - matplotlib 
   - sympy 
   - cython
-  - upgrade spyder
   - pip
   - pip:
     - nbgitpuller
     - sphinx-gallery
+    - spyder-env 
