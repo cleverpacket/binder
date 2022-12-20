@@ -1,0 +1,20 @@
+name: conda
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - spyder-env 
+  - pip
+  - pip:
+    - nbgitpuller
+    - sphinx-gallery
+    - pandas
+    - matplotlib
+	- numpy 
+	- spyder 
+	- scipy 
+	- pandas 
+	- matplotlib 
+	- sympy 
+	- cython
+	- upgrade spyder
