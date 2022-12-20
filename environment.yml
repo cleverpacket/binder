@@ -5,16 +5,14 @@ dependencies:
   - python
   - spyder-env 
   - numpy 
+  - spyder 
+  - scipy 
+  - pandas 
+  - matplotlib 
+  - sympy 
+  - cython
+  - upgrade spyder
   - pip
   - pip:
     - nbgitpuller
     - sphinx-gallery
-    - pandas
-    - matplotlib
-	- spyder 
-	- scipy 
-	- pandas 
-	- matplotlib 
-	- sympy 
-	- cython
-	- upgrade spyder
